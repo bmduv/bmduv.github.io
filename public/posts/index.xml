@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Alex Blog</title>
-    <link>https://bmduv.github.io/</link>
-    <description>Recent content on Alex Blog</description>
+    <title>Posts on Alex Blog</title>
+    <link>https://bmduv.github.io/posts/</link>
+    <description>Recent content in Posts on Alex Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 06 Mar 2024 13:55:21 -0800</lastBuildDate>
-    <atom:link href="https://bmduv.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bmduv.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Machine Learning Basics</title>
       <link>https://bmduv.github.io/posts/machinelearningbasics/</link>
