@@ -20,7 +20,7 @@ Data:
 
 Feature Engineering:
 - Video Features: Video ID -> Embedded, Duration, Language -> Embedded, Title -> Map to Feature Vector (BERT), Tags -> Map to Feature Vector (CBOW) ---> Concatenate
-![[posts/imgs/ch6-07-1-JV5OED2M.webp]]
+![[content/posts/imgs/ch6-07-1-JV5OED2M.webp]]
 - User Features: Categorize user features into following buckets: 1. User demographics 2. Contextual information 3. User historical interactions
 ![[public/posts/imgs/h6-08-1-PCWNBYAP.webp]]
 - Contextual Information: Time of Day, Device, Day of week

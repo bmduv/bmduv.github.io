@@ -1,6 +1,6 @@
 ---
 title: ML Basics Review
-draft: false
+draft: true
 tags:
 ---
 ## Supervised Learning

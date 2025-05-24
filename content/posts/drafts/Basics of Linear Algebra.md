@@ -1,6 +1,6 @@
 ---
 title: Basics of Linear Algebra
-draft: false
+draft: true
 tags:
 ---
  
